@@ -1,0 +1,39 @@
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#64B5F6</color>
+    <color name="secondary">#FF6F00</color>
+    <color name="secondary_dark">#E65100</color>
+
+    <!-- Semantic -->
+    <color name="success">#43A047</color>
+    <color name="error">#E53935</color>
+    <color name="warning">#FB8C00</color>
+    <color name="info">#039BE5</color>
+
+    <!-- Neutral -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Bottom nav -->
+    <color name="bottom_nav_active">#1E88E5</color>
+    <color name="bottom_nav_inactive">#9E9E9E</color>
+
+    <!-- Status colors -->
+    <color name="status_searching">#FB8C00</color>
+    <color name="status_on_trip">#1E88E5</color>
+    <color name="status_completed">#43A047</color>
+    <color name="status_cancelled">#E53935</color>
+</resources>

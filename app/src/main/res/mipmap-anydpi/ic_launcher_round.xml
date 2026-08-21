@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Latar belakang -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M0,0 h108 v108 h-108 z" />
+    <!-- Roda belakang -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,74 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <!-- Roda depan -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,74 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <!-- Deck / pijakan kaki -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,60 h34 a4,4 0 0 1 4,4 v2 a4,4 0 0 1 -4,4 h-34 a4,4 0 0 1 -4,-4 v-2 a4,4 0 0 1 4,-4 z" />
+    <!-- Jok -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,50 h18 a3,3 0 0 1 3,3 v3 a3,3 0 0 1 -3,3 h-18 a3,3 0 0 1 -3,-3 v-3 a3,3 0 0 1 3,-3 z" />
+    <!-- Stang / tiang kemudi -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M62,62 L77,44" />
+    <!-- Gagang setang -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,41 h11 a3,3 0 0 1 3,3 v4 a3,3 0 0 1 -3,3 h-11 a3,3 0 0 1 -3,-3 v-4 a3,3 0 0 1 3,-3 z" />
+</vector>

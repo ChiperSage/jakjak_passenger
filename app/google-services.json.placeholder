@@ -1,0 +1,25 @@
+{
+  "_PLACEHOLDER_": "GANTI file ini dengan google-services.json asli dari Firebase Console",
+  "_INSTRUKSI_": [
+    "1. Buka Firebase Console → Project Settings",
+    "2. Tambahkan Android app dengan package: com.jakjak.passenger",
+    "3. Download google-services.json",
+    "4. Letakkan di folder app/",
+    "5. File ini sudah di-exclude di .gitignore – jangan di-commit!",
+    "6. Untuk CI/CD: encode base64 lalu simpan ke GitHub Secret GOOGLE_SERVICES_JSON"
+  ],
+  "project_info": {
+    "project_id": "jakjak-passenger",
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "firebase_url": "https://jakjak-passenger-default-rtdb.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.jakjak.passenger"
+        }
+      }
+    }
+  ]
+}

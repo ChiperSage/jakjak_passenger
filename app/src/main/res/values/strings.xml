@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">JakJak</string>
+    <string name="tagline">Pesan ojek online, mudah &amp; cepat</string>
+
+    <!-- Login -->
+    <string name="label_login_title">Masuk</string>
+    <string name="label_login_subtitle">Selamat datang kembali!</string>
+    <string name="label_no_account">Belum punya akun?</string>
+
+    <!-- Register -->
+    <string name="label_register_title">Daftar Akun</string>
+    <string name="label_register_subtitle">Isi data diri Anda untuk mulai memesan</string>
+    <string name="label_have_account">Sudah punya akun?</string>
+
+    <!-- Hints -->
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor HP</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+
+    <!-- Buttons -->
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="btn_logout">Keluar</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Kembali</string>
+    <string name="cd_logo">Logo JakJak</string>
+    <string name="cd_profile_photo">Foto Profil</string>
+
+    <!-- Messages -->
+    <string name="msg_logout_success">Sampai jumpa!</string>
+    <string name="msg_login_failed">Email atau password salah</string>
+    <string name="msg_register_success">Akun berhasil dibuat</string>
+    <string name="msg_network_error">Tidak ada koneksi internet</string>
+
+    <!-- Notification -->
+    <string name="notif_channel_ride">Notifikasi Perjalanan</string>
+    <string name="notif_channel_promo">Promo &amp; Info</string>
+
+    <!-- Home / Pemesanan -->
+    <string name="home_title">Mau ke mana hari ini?</string>
+    <string name="home_greeting">Halo, %1$s! Mau ke mana hari ini?</string>
+    <string name="home_subtitle">Lengkapi detail perjalananmu di bawah ini, ya.</string>
+    <string name="hint_origin">Lokasi jemput (Asal)</string>
+    <string name="hint_destination">Tujuan</string>
+    <string name="hint_note">Keterangan (opsional)</string>
+    <string name="btn_order">Pesan Ojek</string>
+    <string name="msg_name_required">Nama wajib diisi</string>
+    <string name="msg_origin_required">Lokasi jemput wajib diisi</string>
+    <string name="msg_destination_required">Tujuan wajib diisi</string>
+    <string name="msg_order_success">Pesanan berhasil dibuat! Driver segera menuju lokasi jemput.</string>
+    <string name="info_title">Bagaimana cara kerjanya?</string>
+    <string name="info_body">Isi lokasi jemput dan tujuan, lalu tekan tombol Pesan Ojek. Driver terdekat akan menerima permintaanmu dan segera menuju lokasi.</string>
+
+    <!-- Riwayat & Profil -->
+    <string name="title_history">Riwayat</string>
+    <string name="title_profile">Profil</string>
+    <string name="guest_name">Tamu</string>
+    <string name="guest_email">Mode tamu (tanpa akun)</string>
+    <string name="placeholder_empty">Belum ada data</string>
+    <string name="placeholder_history">Belum ada riwayat perjalanan.\nPesananmu akan muncul di sini.</string>
+    <string name="placeholder_dash">-</string>
+    <string name="role_passenger">Penumpang</string>
+
+    <!-- Matching / Pencarian driver -->
+    <string name="current_location">Lokasi saat ini</string>
+    <string name="searching_driver">Menawarkan order ke %1$s…</string>
+    <string name="searching_countdown">Driver punya waktu %1$d detik untuk menerima</string>
+    <string name="btn_cancel_search">Batalkan Pencarian</string>
+    <string name="msg_driver_found">Driver menerima pesananmu! 🎉</string>
+    <string name="msg_no_driver">Tidak ada driver aktif di dekatmu. Coba lagi nanti.</string>
+    <string name="msg_location_denied">Izin lokasi diperlukan untuk mencari driver terdekat</string>
+    <string name="msg_location_unavailable">Lokasi tidak ditemukan. Nyalakan GPS lalu coba lagi.</string>
+    <string name="tv_found_title">Driver ditemukan!</string>
+    <string name="tv_found_desc">Driver sedang menuju lokasi jemputmu. Pantau detailnya di tab Riwayat.</string>
+</resources>
